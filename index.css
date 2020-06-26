@@ -73,7 +73,7 @@ li a {
 }
 
 #whoWeAre {
-  background-color: blue;
+  background: black url(./images/wood.jpg) fixed center;
   color: white;
   display: flex;
   flex-direction: column;
